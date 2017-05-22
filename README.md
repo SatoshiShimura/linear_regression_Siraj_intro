@@ -4,9 +4,11 @@ This is linear regression model using Scikit Learn to predict brain weight from 
 
 # Data structure of 'brain_body.txt'
 
-	Brain	Body
-0	3.385	44.5
-1	0.480	15.5
-2	1.350	8.1
-3	465.000	423.0
-4	36.330	119.5
+
+_ | Brain | Body
+--- | --- | ---
+0 | 3.385 | 44.5
+1 | 0.480 | 15.5
+2 | 1.350 | 8.1
+3 | 465.000 | 423.0
+4 | 36.330 | 119.5
